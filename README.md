@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
-- 👨‍💻 All of my projects are available at [https://kanimi-33.github.io/Web_Portfolio/](https://kanimi-33.github.io/Web_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://rahulcr42.github]()
 
 - 💬 Ask me about **python, css, javascript, java**
 
