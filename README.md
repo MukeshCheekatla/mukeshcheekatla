@@ -1,59 +1,50 @@
-# 👋 Hi, I'm Sai Mukesh Cheekatla
+<h1 align="center">Hi 👋, I'm Sai Mukesh Cheekatla</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | AI/ML Intern
+<p align="right">
+  <img alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
+</p>
 
-![Coding Animation](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MukeshCheekatla&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
----
+<p align="left">
+  <a href="https://x.com/sai_mukesh_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/twitter/follow/sai_mukesh_?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
-## 💼 About Me
+- 🔭 I’m currently working on **Something cool!**  
+- 🌱 I’m currently learning **MERN STACK**, **AI/ML**  
+- 👯 I’m looking to collaborate on **opensource projects**  
+- 👨‍💻 All of my projects are available at [https://rahulcr42.github.io/Portfolio/](https://rahulcr42.github.io/Portfolio/)  
+- 💬 Ask me about **Python, CSS, JavaScript, Java**  
+- 📫 How to reach me: **cheekatlamukesh@gmail.com** | **+91 86883 92919**  
+- ⚡ Fun fact: **I am funny while coding!**  
 
-- 🎓 MCA (2025) graduate with hands-on experience in **MERN stack development** and **AI/ML model building**.
-- 💻 Passionate about building scalable, secure, and performance-optimized applications.
-- 🌱 Currently learning **Java + Spring Boot** to expand backend expertise.
-- 🛠️ Strong in REST APIs, authentication, and database management.
-- 📈 Always eager to explore new tech and solve real-world problems.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, SQL, HTML5, CSS3
-- **Frameworks & Libraries:** Node.js, Express.js, React.js, Chart.js
-- **Databases:** MongoDB, MySQL
-- **Developer Tools:** Git, GitHub, VS Code, Postman
-- **Core Concepts:** RESTful APIs, CRUD Operations, MVC Architecture, Authentication & Authorization
-
----
-
-## 📌 Projects
-
-### 1. [Expense & Budget Tracker (MERN Stack)](https://github.com/MukeshCheekatla/Expense-Budget-Tracker)
-- Full-stack application to track expenses and manage budgets.
-- Features: Authentication, CRUD operations, interactive spending charts.
-- **Tech:** MongoDB, Express.js, React.js, Node.js, Chart.js  
-- **Deployment:** Backend on Render | Frontend on Vercel
-
-### 2. [Personal Portfolio Website](https://github.com/MukeshCheekatla/Portfolio)
-- Minimalist personal portfolio showcasing skills, projects, and contact links.
+<h3 align="left">Skills (Programming Languages and Tools):</h3>
+<p>
+  MERN Tech Stack | Java | Python | C++ | C | HTML5 | CSS3 | JavaScript | Bootstrap<br />
+  SQL Database | DSA | Machine Learning<br />
+  Git and GitHub | Visual Studio Code | Jupyter
+</p>
 
 ---
 
-## 🏆 Internship Experience
+<h3 align="left">📈 GitHub Stats</h3>
 
-**AI & ML Intern** – *Adikavi Nannaya University & IBM Edunet*  
-- Developed a sentiment analysis model with 85% accuracy.
-- Applied Logistic Regression and Naive Bayes for text classification.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MukeshCheekatla&show_icons=true&theme=radical&count_private=true" alt="Mukesh's GitHub Stats" />
+</p>
 
----
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukeshCheekatla&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 📫 Connect With Me
-
-- **Email:** [cheekatlamukesh@gmail.com](mailto:cheekatlamukesh@gmail.com)  
-- **Phone:** +91-8688392919  
-- **LinkedIn:** [linkedin.com/in/mukesh-cheekatla-411814257](https://www.linkedin.com/in/mukesh-cheekatla-411814257)  
-- **GitHub:** [github.com/MukeshCheekatla](https://github.com/MukeshCheekatla)  
-- **Portfolio:** [Portfolio Link](https://github.com/MukeshCheekatla/Portfolio)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshCheekatla&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
